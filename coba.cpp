@@ -9,6 +9,7 @@ int main ()
 		for (x=10; x<=8; x++)
 	{
 		cout << p << "\t";
+		cout <<"pppp";
 		p=p-1;
 	}
 	
